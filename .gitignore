@@ -6,3 +6,7 @@ dist/
 .venv/
 __pycache__/
 *.pyc
+
+# env files
+apps/api/.env
+apps/web/.env
